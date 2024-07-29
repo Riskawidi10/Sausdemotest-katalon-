@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>addcart, detail cart, delete cart</description>
-   <name>Cart</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>34707da3-a9be-4d0d-9538-e03355fdf91d</testCaseGuid>
-</TestCaseEntity>
